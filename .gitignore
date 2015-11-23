@@ -34,3 +34,7 @@ bower.json
 
 # Ignore pow environment settings
 .powenv
+
+# You install your own damn neo4j:
+/db/neo4j/*
+!/db/neo4j/.keep
